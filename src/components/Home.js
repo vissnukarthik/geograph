@@ -1,8 +1,9 @@
 import React from 'react'
+import Fetch from './Bank/Fetch'
 
 function Home() {
   return (
-    <div>Home</div>
+    <Fetch/>
   )
 }
 

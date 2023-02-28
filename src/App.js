@@ -10,7 +10,6 @@ function App() {
     
     <div className="App">
     <BrowserRouter>
-    <h3>geograph</h3>   
         <Nav/>
         <Routes>
           <Route path="/" element={<Home />} />
